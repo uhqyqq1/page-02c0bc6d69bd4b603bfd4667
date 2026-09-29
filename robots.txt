@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.bvkifru.cn/sitemap.xml
